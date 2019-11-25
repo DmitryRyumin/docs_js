@@ -7,4 +7,4 @@
 
 | Названия | Описания |
 | -------- | -------- |
-| [trml](https://github.com/DmitryRyumin/docs_js/tree/master/NodeJS) | NodeJS |
+| [NodeJS](https://github.com/DmitryRyumin/docs_js/tree/master/NodeJS) | NodeJS |
