@@ -1,24 +1,32 @@
 # NodeJS
 
-## [Установка Node](https://nodejs.org/en/)
+## Менеджер пакетов для среды выполнения JavaScript Node.js (`npm`)
 
-### Узнать версию `Node`
+> [Официальная документация](https://docs.npmjs.com/)
 
-```shell script
-node -v
-# Или
-node --version
-```
+| Команды | Описания |
+| ------- | -------- |
+| `npm install` | Установка всех пакетов из `package.json` |
+| `npm i название_пакета -D` | Установка пакета в `devDependency` |
+| `npm i название_пакета -S` | Установка пакета в `dependencies` |
+| `npm install -g npm` | Глобальная установка |
+| `npm -v`<br>`npm --version` | Версия `npm` |
+| `npm config get prefix` | Путь к глобальному каталогу содержащему `package.json` |
+| `npm install название_пакета`<br>`npm i название_пакета` | Установка пакетов |
+| `npm init`<br>`npm init -y`<br>`npm init --scope` | Создание `package.json` с вопросами (Устаревший вариант)<br>Создание `package.json` без вопросов<br>Создание `package.json` с вопросами |
+| `npm list --depth=0`<br>`npm list -g --depth=0` | Список установленных локальных пакетов<br>Список установленных глобальных пакетов |
 
-### Узнать версию `npm` (менеджер пакетов)
+## Node.js - среда выполнения JavaScript (`node`)
 
-```shell script
-npm -v
-# Или
-npm --version
-```
+> [Официальная документация](https://nodejs.org/en/docs/)
 
-### Тестирование Node
+| Команды | Описания |
+| ------- | -------- |
+| `node -v`<br>`node --version` | Версия `node.js` |
+| `node` | Активания `Node` в консоле |
+| `.exit` | Деактивация `Node` в консоле |
+
+## Тестирование Node
 
 1. Создать файл `hello.js`
 
@@ -31,20 +39,6 @@ npm --version
     ```shell script
     node hello.js
     ```
-
-## Создание `package.json`
-
-```shell script
-npm init -y
-```
-
-## Установка пакетов из `npm`
-
-```shell script
-npm install название_пакета
-# Или
-npm i название_пакета
-```
 
 ## Создание сервера
 
