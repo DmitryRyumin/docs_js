@@ -78,7 +78,7 @@ module.exports = {
 <h4 align="center"><span style="color:#EC256F;">index.js</span></h4>
 
 ```javascript
-obj = require('./user'); // Импорт из файла user.js
+const obj = require('./user'); // Импорт из файла user.js
 
 console.log(obj.user); // Вывод объекта 1
 console.log(obj.car); // Вывод объекта 2
@@ -89,7 +89,13 @@ console.log(obj.car); // Вывод объекта 2
 #### PATH
 
 ```javascript
-const path = require('path'); // Работа с файлами и каталогами
+const path = require('path'); // Работа с путями
+```
+
+#### FS
+
+```javascript
+const fs = require('fs');// Работа с файловой системой
 ```
 
 ### Создание сервера
