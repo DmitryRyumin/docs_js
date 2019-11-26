@@ -7,7 +7,7 @@
 | Команды | Описания |
 | ------- | -------- |
 | `npm install` | Установка всех пакетов из `package.json` |
-| `npm i название_пакета -D` | Установка пакета в `devDependency` |
+| `npm i название_пакета -D` | Установка пакета в `devDependencies` |
 | `npm i название_пакета -S` | Установка пакета в `dependencies` |
 | `npm install -g npm` | Глобальная установка |
 | `npm -v`<br>`npm --version` | Версия `npm` |
@@ -15,6 +15,12 @@
 | `npm install название_пакета`<br>`npm i название_пакета` | Установка пакетов |
 | `npm init`<br>`npm init -y`<br>`npm init --scope` | Создание `package.json` с вопросами (Устаревший вариант)<br>Создание `package.json` без вопросов<br>Создание `package.json` с вопросами |
 | `npm list --depth=0`<br>`npm list -g --depth=0` | Список установленных локальных пакетов<br>Список установленных глобальных пакетов |
+
+### Пакеты которые необходимо устанавливать в `devDependencies` (`npm i название_пакета -D`)
+| Название пакета | Описания |
+| --------------- | -------- |
+| `nodemon` | Автоматический перезапуск приложения при обнаружении изменений файлов в каталоге |
+
 
 ## Node.js - среда выполнения JavaScript (`node`)
 
@@ -26,7 +32,7 @@
 | `node` | Активания `Node` в консоле |
 | `.exit` | Деактивация `Node` в консоле |
 
-## Тестирование Node
+### Тестирование Node
 
 1. Создать файл `hello.js`
 
@@ -40,7 +46,45 @@
     node hello.js
     ```
 
-## Создание сервера
+### Глобальный объекты
+
+```javascript
+console.log(__dirname) // Абсолютный путь к текущей директории
+console.log(__filename) // Абсолютный путь к текущему файлу
+```
+
+### Экспорт/импорт из одного файла в другой
+
+<h4 align="center"><span style="color:#EC256F;">user.js</span></h4>
+
+```javascript
+// Объект 1
+const user = {
+    name: 'Dmitry',
+    age: 25
+}
+
+// Объект 2
+const car = {
+    name: 'BMW'
+}
+
+// Экспорт объектов из модуля
+module.exports = {
+    user, car
+}
+```
+
+<h4 align="center"><span style="color:#EC256F;">index.js</span></h4>
+
+```javascript
+obj = require('./user') // Импорт из файла user.js
+
+console.log(obj.user) // Вывод объекта 1
+console.log(obj.car) // Вывод объекта 2
+```
+
+### Создание сервера
 
 ```javascript
 const http = require('http');  // Поддержка HTTP
