@@ -56,6 +56,7 @@ let filename = __filename; // Абсолютный путь к текущему 
 ### Экспорт/импорт из одного файла в другой
 
 <h4 align="center"><span style="color:#EC256F;">user.js</span></h4>
+
 ```javascript
 // Объект 1
 const user = {
