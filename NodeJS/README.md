@@ -76,6 +76,7 @@ module.exports = {
 ```
 
 <h4 align="center"><span style="color:#EC256F;">index.js</span></h4>
+
 ```javascript
 const obj = require('./user'); // Импорт из файла user.js
 
