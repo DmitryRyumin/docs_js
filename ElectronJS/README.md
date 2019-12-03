@@ -171,10 +171,10 @@ app.on('activate', () => {
 <h4 align="center"><span style="color:#EC256F;">renderer.js</span></h4>
 
 ```javascript
-    /* Ожидаем загрузку DOM дерева приложения */
-    document.addEventListener('DOMContentLoaded', function () {
-        
-    });
+/* Ожидаем загрузку DOM дерева приложения */
+document.addEventListener('DOMContentLoaded', function () {
+    // ...
+});
 ```
 
 <h4 align="center"><span style="color:#EC256F;">index.html</span></h4>
