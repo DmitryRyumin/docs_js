@@ -168,7 +168,7 @@ fs.mkdir(
     path.join(__dirname, 'notes'), err => {
         if (err) throw err;
 
-        console.log('Папка была создана')
+        console.log('Папка была создана');
     }
 );
 ```
@@ -183,7 +183,7 @@ fs.writeFile(
     err => {
         if (err) throw err;
 
-        console.log('Файл был создан')
+        console.log('Файл был создан');
     }
 );
 ```
@@ -198,7 +198,7 @@ fs.appendFile(
     err => {
         if (err) throw err;
 
-        console.log('Файл был дозаписан')
+        console.log('Файл был дозаписан');
     }
 );
 ```
@@ -213,7 +213,7 @@ fs.readFile(
     (err, data) => {
         if (err) throw err;
 
-        console.log(data)
+        console.log(data);
     }
 );
 ```
@@ -226,9 +226,9 @@ fs.rename(
     path.join(__dirname, 'notes', 'mynotes.txt'),
     path.join(__dirname, 'notes', 'notes.txt'),
     err => {
-        if (err) throw err
+        if (err) throw err;
 
-        console.log('Файл переименован')
+        console.log('Файл переименован');
     }
 );
 ```
