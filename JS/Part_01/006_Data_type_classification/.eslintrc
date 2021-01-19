@@ -1,0 +1,12 @@
+{
+  "env": {
+    "browser": true,
+    "commonjs": true,
+    "es2020": true
+  },
+  "rules": {
+    "semi": "off",
+    "no-unused-vars": "off"
+  },
+  "extends": "eslint:recommended"
+}
