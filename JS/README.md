@@ -152,6 +152,10 @@
 >
 > 2. [HAMMER.JS - сенсорные жесты](https://hammerjs.github.io/)
 
+### `#35` 035 Async, defer, динамические скрипты
+
+> 1. [Атрибут `defer`](http://htmlbook.ru/html/script/defer) - откладывает выполнение скрипта до тех пор, пока вся страница не будет загружена полностью
+
 ---
 
 037 classList
