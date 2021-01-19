@@ -2,7 +2,7 @@
 
 ---
 
-## Первая часть. Основы работы с JS
+## `Первая часть. Основы работы с JS`
 
 ### `#4` Что такое JS и как его подключить к странице
 
@@ -160,7 +160,7 @@
 
 ---
 
-## Вторая часть. JavaScript в работе
+## `Вторая часть. JavaScript в работе`
 
 037 classList
 https://developer.mozilla.org/ru/docs/Web/API/Element/classList
