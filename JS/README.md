@@ -160,6 +160,8 @@
 
 ---
 
+## Вторая часть. JavaScript в работе
+
 037 classList
 https://developer.mozilla.org/ru/docs/Web/API/Element/classList
 
