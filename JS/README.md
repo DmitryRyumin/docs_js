@@ -152,7 +152,7 @@
 >
 > 2. [HAMMER.JS - сенсорные жесты](https://hammerjs.github.io/)
 
-### `#35` 035 Async, defer, динамические скрипты
+### `#35` Async, defer, динамические скрипты
 
 > 1. Атрибут [`defer`](http://htmlbook.ru/html/script/defer) - откладывает выполнение скрипта до тех пор, пока вся страница не будет загружена полностью
 >
@@ -162,17 +162,9 @@
 
 ## `Вторая часть. JavaScript в работе`
 
-037 classList
-https://developer.mozilla.org/ru/docs/Web/API/Element/classList
+### `#37` [ClassList](https://developer.mozilla.org/ru/docs/Web/API/Element/classList) и [делегирование](https://learn.javascript.ru/event-delegation) событий
 
-037 matches
-https://developer.mozilla.org/ru/docs/Web/API/Element/matches
-
-037 -1
-https://learn.javascript.ru/event-delegation
-
-037 -2
-https://medium.com/@stasonmars/%D0%B4%D0%B5%D0%BB%D0%B5%D0%B3%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D0%B8%CC%86-%D0%B2-javascript-d91cbdd8916a
+> [`matches`](https://developer.mozilla.org/ru/docs/Web/API/Element/matches)
 
 038 -
 https://drive.google.com/open?id=1-IIzpirT_ydJ-A6gij0_f7oz6MK7YdRS

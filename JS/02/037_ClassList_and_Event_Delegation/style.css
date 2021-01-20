@@ -1,0 +1,21 @@
+button {
+  width: 150px;
+  height: 50px;
+  background-color: green;
+  border: none;
+  color: #fff;
+  border-radius: 10px;
+  outline: none;
+  cursor: pointer;
+  transition: 0.3s;
+}
+.blue {
+  background-color: blue;
+}
+.red {
+  background-color: red;
+}
+.btn-block {
+  background-color: gray;
+  padding: 20px;
+}
