@@ -435,14 +435,3 @@ https://nisnom.com/
 
 082 8-JavaScript-2020-
 https://www.youtube.com/watch?v=tuhEduhHCGw&t=1s
-
-````
-
-```
-
-```
-
-```
-
-```
-````
