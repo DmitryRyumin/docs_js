@@ -166,8 +166,7 @@
 
 > [`matches`](https://developer.mozilla.org/ru/docs/Web/API/Element/matches)
 
-038 -
-https://drive.google.com/open?id=1-IIzpirT_ydJ-A6gij0_f7oz6MK7YdRS
+### `#38` Создание табов в новом проекте
 
 039 JavaScript-
 https://learn.javascript.ru/js-animation
