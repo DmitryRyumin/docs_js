@@ -168,11 +168,9 @@
 
 ### `#38` Создание табов в новом проекте
 
-039 JavaScript-
-https://learn.javascript.ru/js-animation
+### `#39` Скрипты и время их выполнения. [setTimeout](https://developer.mozilla.org/ru/docs/Web/API/WindowTimers/setTimeout) и [setInterval](https://developer.mozilla.org/ru/docs/Web/API/WindowOrWorkerGlobalScope/setInterval)
 
-039 -
-https://drive.google.com/open?id=1U-AISCK350rGCCXZ7faYnolh8aF0jX8a
+> 1. [JavaScript-анимации](https://learn.javascript.ru/js-animation)
 
 040 -Date
 https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Date
