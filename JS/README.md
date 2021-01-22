@@ -172,11 +172,7 @@
 
 > 1. [JavaScript-анимации](https://learn.javascript.ru/js-animation)
 
-040 -Date
-https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Date
-
-040 -
-https://learn.javascript.ru/date
+### `#40` Работа с [Date](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Date)
 
 041 - Создание таймера обратного отсчета в проекте
 https://alligator.io/js/object-property-shorthand-es6/
