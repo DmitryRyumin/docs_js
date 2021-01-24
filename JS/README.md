@@ -174,8 +174,9 @@
 
 ### `#40` Работа с [Date](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Date)
 
-041 - Создание таймера обратного отсчета в проекте
-https://alligator.io/js/object-property-shorthand-es6/
+### `#41` Создание таймера обратного отсчета в проекте
+
+> 1. [Сокращенный вариант записи свойст объекта](https://alligator.io/js/object-property-shorthand-es6/)
 
 042 -
 https://drive.google.com/open?id=1eTxWzmaDfN0CXHC7Dv_AE39A1GlNO1nI
