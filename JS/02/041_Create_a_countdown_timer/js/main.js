@@ -45,12 +45,11 @@ window.addEventListener('DOMContentLoaded', () => {
   })
 
   // ? Timer
-
   const deadline = new Date('2021-01-25') // Дедлайн таймера
 
   // Определение разницы между дедлайном и текущим временем
   const getTimeRemaining = (endtime) => {
-    const t = new Date(endtime) - new Date(), // Разница между датами
+    const t = new Date(endtime) - (-endtime.getTimezoneOffset() * 60 * 1000 - 0) - new Date(), // Разница между датами
       days = Math.floor(t / (1000 * 60 * 60 * 24)), // Количество дней
       hours = Math.floor((t / (1000 * 60 * 60)) % 24), // Количество часов
       minutes = Math.floor((t / 1000 / 60) % 60), // Количество минут
