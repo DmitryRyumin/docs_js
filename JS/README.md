@@ -189,8 +189,9 @@
 
 </details>
 
-043 -
-https://keycode.info/
+### `#43` Создание модального окна
+
+> 1. [Таблица кодов клавиш клавиатуры](https://keycode.info/)
 
 044 -
 https://github.com/yankovalenko94/JS_task_answers/tree/master/JS_step_10
