@@ -193,8 +193,7 @@
 
 > 1. [Таблица кодов клавиш клавиатуры](https://keycode.info/)
 
-044 -
-https://github.com/yankovalenko94/JS_task_answers/tree/master/JS_step_10
+### `#44` Модификации модального окна
 
 045 -
 https://learn.javascript.ru/constructor-new
