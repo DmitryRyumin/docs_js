@@ -195,8 +195,7 @@
 
 ### `#44` Модификации модального окна
 
-045 -
-https://learn.javascript.ru/constructor-new
+### `#45` [Функции-конструкторы](https://learn.javascript.ru/constructor-new)
 
 046 -this
 https://tproger.ru/translations/javascript-this-keyword/
