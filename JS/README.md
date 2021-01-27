@@ -201,8 +201,7 @@
 
 ### `#47` [Классы](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Classes) ([ES6](https://caniuse.com/?search=ecma))
 
-048 -
-https://github.com/yankovalenko94/JS_task_answers/tree/master/JS_step_11
+### `#48` Использование классов в реальной работе
 
 049 rest
 https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Functions/Rest_parameters
