@@ -203,11 +203,7 @@
 
 ### `#48` Использование классов в реальной работе
 
-049 rest
-https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Functions/Rest_parameters
-
-049 -
-https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Functions/Default_parameters
+### `#49` [Rest оператор](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Functions/Rest_parameters) и [параметры по умолчанию](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Functions/Default_parameters) (ES6)
 
 050 MAMP
 https://www.mamp.info/ru/
