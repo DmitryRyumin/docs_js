@@ -205,6 +205,8 @@
 
 ### `#49` [Rest оператор](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Functions/Rest_parameters) и [параметры по умолчанию](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Functions/Default_parameters) (ES6)
 
+---
+
 ## `Третья часть. Продвинутый JavaScript`
 
 050 MAMP
