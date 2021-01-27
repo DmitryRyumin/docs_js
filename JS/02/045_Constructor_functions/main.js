@@ -27,5 +27,3 @@ ivan.hello() // ? => Иван 28
 alex.hello() // ? => Alex 30
 
 ivan.exit() // ? => Пользователь Иван ушел
-
-// * ES6

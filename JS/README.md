@@ -197,8 +197,7 @@
 
 ### `#45` [Функции-конструкторы](https://learn.javascript.ru/constructor-new)
 
-046 -this
-https://tproger.ru/translations/javascript-this-keyword/
+### `#46` Контекст вызова. [This](https://tproger.ru/translations/javascript-this-keyword/)
 
 047 -
 https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Classes
