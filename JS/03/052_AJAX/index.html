@@ -1,27 +1,38 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Calc</title>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>052_AJAX</title>
     <style>
-        label {
-            display: block;
-            font-size: 30px;
-        }
-        input {
-            width: 300px;
-            height: 50px;
-            font-size: 30px;
-        }
+      /* Chrome, Safari, Edge, Opera */
+      input::-webkit-outer-spin-button,
+      input::-webkit-inner-spin-button {
+        -webkit-appearance: none;
+        margin: 0;
+      }
+
+      /* Firefox */
+      input[type='number'] {
+        -moz-appearance: textfield;
+      }
+      label {
+        display: block;
+        font-size: 30px;
+      }
+      input {
+        width: 300px;
+        height: 50px;
+        font-size: 30px;
+      }
     </style>
-</head>
-<body>
+  </head>
+  <body>
     <label for="rub">RUB</label>
-    <input id="rub" type="text">
+    <input id="rub" type="number" />
     <label for="usd">USD</label>
-    <input id="usd" type="text">
-    <script src="js/script.js"></script>
-</body>
+    <input id="usd" type="number" />
+    <script src="./js/main.js"></script>
+  </body>
 </html>

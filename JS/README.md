@@ -217,26 +217,16 @@
 
 ### `#51` [JSON](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/JSON) формат передачи данных, [глубокое клонирование объектов](https://medium.com/@stasonmars/%D0%BA%D0%BE%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D0%B2-%D0%B2-javascript-d25c261a7aff)
 
-052 XMLHttpRequest
-https://developer.mozilla.org/ru/docs/Web/API/XMLHttpRequest
+### `#52` AJAX и общение с сервером
 
-052 -XMLHttpRequest
-https://developer.mozilla.org/ru/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest
+> 1. [Список кодов состояния HTTP](https://developer.mozilla.org/ru/docs/Web/HTTP/Status)
 
-052 -FormData
-https://developer.mozilla.org/ru/docs/Web/API/FormData/Using_FormData_Objects
+<details>
+<summary>Дополнительная информация ...</summary>
 
-052 -formData-JSON
-https://ilikekillnerds.com/2017/09/convert-formdata-json-object/
+> [XMLHttpRequest](https://developer.mozilla.org/ru/docs/Web/API/XMLHttpRequest), [XMLHttpRequest.readyState](https://developer.mozilla.org/ru/docs/Web/API/XMLHttpRequest/readyState), [XMLHttpRequest.status](https://developer.mozilla.org/ru/docs/Web/API/XMLHttpRequest/status)
 
-052 -HTTP
-https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B8_HTTP
-
-052 XMLHttpRequest.readyState
-https://developer.mozilla.org/ru/docs/Web/API/XMLHttpRequest/readyState
-
-052 -
-https://drive.google.com/open?id=11i7oxwYpQ2K6roXprxQwVvRSnzWjGlWM
+</details>
 
 053 -
 https://github.com/yankovalenko94/JS_task_answers/tree/master/JS_step_13
