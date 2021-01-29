@@ -232,11 +232,7 @@
 
 ### `#54` Красивое оповещение пользователя
 
-055 Promise-1
-https://learn.javascript.ru/promise-basics
-
-055 Promise-2
-https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Promise
+### `#55` [Promise](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Promise) (ES6)
 
 056 Fetch-API
 https://developer.mozilla.org/ru/docs/Web/API/Fetch_API/Using_Fetch
