@@ -230,8 +230,7 @@
 
 ### `#53` Реализация скрипта отправки данных на сервер
 
-054 -
-https://github.com/yankovalenko94/JS_task_answers/tree/master/JS_step_14
+### `#54` Красивое оповещение пользователя
 
 055 Promise-1
 https://learn.javascript.ru/promise-basics
