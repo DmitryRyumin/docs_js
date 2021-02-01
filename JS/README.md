@@ -234,11 +234,9 @@
 
 ### `#55` [Promise](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Promise) (ES6)
 
-056 Fetch-API
-https://developer.mozilla.org/ru/docs/Web/API/Fetch_API/Using_Fetch
+### `#56` [Fetch API](https://developer.mozilla.org/ru/docs/Web/API/Fetch_API/Using_Fetch)
 
-056 -
-https://github.com/yankovalenko94/JS_task_answers/tree/master/JS_step_15
+> 1. [{JSON} Placeholder](https://jsonplaceholder.typicode.com/)
 
 057 map
 https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/map
