@@ -238,17 +238,14 @@
 
 > 1. [{JSON} Placeholder](https://jsonplaceholder.typicode.com/)
 
-057 map
-https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/map
+### `57` Методы перебора массивов
 
-057 filter
-https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
+<details>
+<summary>Дополнительная информация ...</summary>
 
-057 reduce
-https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce
+> [filter](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/filter), [map](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/map), [reduce](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce), [Object.entries](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Object/entries)
 
-057 Object.entries-
-https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Object/entries
+</details>
 
 058 Json-server
 https://github.com/typicode/json-server
