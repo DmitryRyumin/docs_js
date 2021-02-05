@@ -258,11 +258,7 @@ npx json-server ./db.json
 
 </details>
 
-059 -
-https://github.com/yankovalenko94/JS_task_answers/tree/master/JS_step_16
-
-059 -JavaScript
-https://www.youtube.com/watch?v=wPG7RgPzxmM
+### `59` Получение данных с сервера. [Async_Await](https://learn.javascript.ru/async-await) (ES8)
 
 060 Axios
 https://github.com/axios/axios
