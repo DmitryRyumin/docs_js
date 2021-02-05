@@ -260,14 +260,9 @@ npx json-server ./db.json
 
 ### `59` Получение данных с сервера. [Async_Await](https://learn.javascript.ru/async-await) (ES8)
 
-060 Axios
-https://github.com/axios/axios
+### `60` Что такое библиотеки. Библиотека [axios](https://github.com/axios/axios)
 
-060 cdnjs
-https://cdnjs.com/
-
-060 -
-https://www.youtube.com/watch?v=5w5hmUgrTFo
+> 1. [cdnjs](https://cdnjs.com/)
 
 061 -
 https://github.com/yankovalenko94/JS_task_answers/tree/master/JS_step_17
