@@ -249,11 +249,14 @@
 
 ### `58` Подробно про npm и [JSON-server](https://github.com/typicode/json-server)
 
-<h4>Запуск JSON-server</h4>
+<details>
+<summary>Запуск JSON-server</summary>
 
 ```bash
 npx json-server ./db.json
 ```
+
+</details>
 
 059 -
 https://github.com/yankovalenko94/JS_task_answers/tree/master/JS_step_16
