@@ -250,7 +250,7 @@
 ### `58` Подробно про npm и [JSON-server](https://github.com/typicode/json-server)
 
 <details>
-<summary>Запуск JSON-server</summary>
+<summary>Запуск JSON-server ...</summary>
 
 ```bash
 npx json-server ./db.json
