@@ -247,11 +247,13 @@
 
 </details>
 
-058 Json-server
-https://github.com/typicode/json-server
+### `58` Подробно про npm и [JSON-server](https://github.com/typicode/json-server)
 
-058 -
-https://drive.google.com/open?id=1ywUhwbSURxYa4CUtOs8mtbos0DP5OXD4
+<h4>Запуск JSON-server</h4>
+
+```bash
+npx json-server ./db.json
+```
 
 059 -
 https://github.com/yankovalenko94/JS_task_answers/tree/master/JS_step_16
