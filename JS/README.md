@@ -270,27 +270,27 @@ npx json-server ./db.json
 <summary>Дополнительная информация ...</summary>
 
 > [Angular](https://angular.io/)
-
-- node.js
-- TypeScript
-- Webpack
-- MVC pattern - шаблон проектирования для создания приложений
-- Angular
-
+>
+> - node.js
+> - TypeScript
+> - Webpack
+> - MVC pattern - шаблон проектирования для создания приложений
+> - Angular
+>
 > [React](https://ru.reactjs.org/)
-
-- node.js
-- JSX - препроцессор
-- Babel
-- Webpack
-- React
-
+>
+> - node.js
+> - JSX - препроцессор
+> - Babel
+> - Webpack
+> - React
+>
 > [Vue](https://vuejs.org/)
-
-- node.js
-- Native JS
-- Webpack
-- Vue
+>
+> - node.js
+> - Native JS
+> - Webpack
+> - Vue
 
 </details>
 
