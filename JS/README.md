@@ -264,6 +264,36 @@ npx json-server ./db.json
 
 > 1. [cdnjs](https://cdnjs.com/)
 
+### `77` Современные библиотеки и фрэймворки
+
+<details>
+<summary>Дополнительная информация ...</summary>
+
+> [Angular](https://angular.io/)
+
+- node.js
+- TypeScript
+- Webpack
+- MVC pattern - шаблон проектирования для создания приложений
+- Angular
+
+> [React](https://ru.reactjs.org/)
+
+- node.js
+- JSX - препроцессор
+- Babel
+- Webpack
+- React
+
+> [Vue](https://vuejs.org/)
+
+- node.js
+- Native JS
+- Webpack
+- Vue
+
+</details>
+
 061 -
 https://github.com/yankovalenko94/JS_task_answers/tree/master/JS_step_17
 
@@ -350,15 +380,6 @@ https://www.npmjs.com/package/nodelist-foreach-polyfill
 
 076 -webpack
 https://drive.google.com/open?id=1av3MQV-KVV3ovSV4rZY_T4R5JXbGzLrO
-
-077 angular
-https://angular.io/
-
-077 React
-https://ru.reactjs.org/
-
-077 Vue
-https://vuejs.org/
 
 078 -
 http://jquery.page2page.ru/index.php5/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0
