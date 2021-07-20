@@ -2,7 +2,7 @@
   "env": {
     "browser": true,
     "commonjs": true,
-    "es2020": true // https://eslint.org/docs/user-guide/configuring#specifying-environments
+    "es2021": true // https://eslint.org/docs/user-guide/configuring/language-options#specifying-environments
   },
   "rules": {
     "semi": "off"
